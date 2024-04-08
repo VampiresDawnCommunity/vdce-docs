@@ -1,0 +1,19 @@
+site_name: Vampires Dawn Community Edition
+repo_url: https://github.com/VampiresDawnCommunity/vdce-docs
+
+nav:
+  - Home: index.md
+  - Changelog:
+    - Allgemein: changelog/README.md
+    - Vanilla: changelog/vanilla.md
+    - Special Edition: changelog/special-edition.md
+    - Aysha-Mod: changelog/aysha-integration.md
+    - Everlasting Reign: changelog/everlasting-reign.md
+    - Valaine-Mod: changelog/valaine-integration.md
+    - div. Mods: changelog/mods-other.md
+  - Developer Info:
+    - EasyRPG: dev-info/easyrpg.md
+  - Soundtrack: soundtrack.md
+
+extra_css:
+  - stylesheets/extra.css
