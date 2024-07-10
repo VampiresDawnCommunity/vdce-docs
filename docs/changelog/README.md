@@ -3,15 +3,20 @@
 
 ## Allgemeine Infos
 
+Original-Spiel erstellt von: ***Alexander "Marlex" Koch***
+
+- [Offizielle Website](https://vampiresdawn.de)
+- [Fan-Website & Discord](https://vampiresdawn.org)
+
 Es wurde das Spiel intern grundlegend an allen Ecken überarbeitet. Code-Dubletten wurden zum größten Teil in Common Events ausgelagert. Das Spiel ist somit leichter zu warten, weniger fehleranfällig und steht auf einer soliden Basis für zukünftige Erweiterungen.
 
 - Einige der überarbeiteten Funktionen sind in der Spieledatenbank ausführlich dokumentiert.
 - MapTree und Datenbankeinträge wurden zur besseren Übersichtlichkeit neu organisiert.
 - **-> Modding ist ausdrücklich erwünscht**
 
-Basis für dieses Release bildet die Version 1.1 der [“Special Mega Aysha Everlasting Reign” Edition](everlasting-reign) von *Yoraiko*.
+Basis für dieses Release bildet die Version 1.1 der [“Special Mega Aysha Everlasting Reign” Edition](everlasting-reign.md) von *Yoraiko*.
 
-Weggefallen sind die Features der ursprünglichen [“Special Edition”](special-edition) von *Plasquar*.
+Weggefallen sind die Features der ursprünglichen [“Special Edition”](special-edition.md) von *Plasquar*.
 
 ## Mod-Sammlung
 
@@ -19,13 +24,13 @@ Ein erweitertes Einstellungsmenü ist beim Spielstart verfügbar und erlaubt ein
 
 Diese beinhalten:
 
-- Die Bonus-Inhalte der englischen Übersetzung von *kj150*, auch bekannt als [Aysha Edition](aysha-integration)
-- [Diverse Mods](mods-other) von *TrunX* & *TrueMG*
-- Die [überarbeiteten MP3-Tracks](mods-other#mp3-upgrades-zippo_the_mad_mechanic)  von *Zippo_the_mad_mechanic*
-- Elemente der [grafischen Überarbeitung](mods-other#grafische-uberarbeitungen-makotoatavarias) von *Makoto (Atavarias)*
-- Elemente der in der [Screenfun-Ausgabe 04/2004](mods-other#screenfun-zensur) erschienenen, zensierten Version von Vampires Dawn.
-- Die neuen Inhalte der [Everlasting Reign Edition](everlasting-reign) von *Yoraiko*
-- Die neuen Inhalte der [Valaine-Mod](valaine-integration) von *ValnarsZimmerKatze* & *SnowyDoe*
+- Die Bonus-Inhalte der englischen Übersetzung von *kj150*, auch bekannt als [Aysha Edition](aysha-integration.md)
+- [Diverse Mods](mods-other.md) von *TrunX* & *TrueMG*
+- Die [überarbeiteten MP3-Tracks](mods-other.md#mp3-upgrades-zippo_the_mad_mechanic)  von *Zippo_the_mad_mechanic*
+- Elemente der [grafischen Überarbeitung](mods-other.md#grafische-uberarbeitungen-makotoatavarias) von *Makoto (Atavarias)*
+- Elemente der in der [Screenfun-Ausgabe 04/2004](mods-other.md#screenfun-zensur) erschienenen, zensierten Version von Vampires Dawn.
+- Die neuen Inhalte der [Everlasting Reign Edition](everlasting-reign.md) von *Yoraiko*
+- Die neuen Inhalte der [Valaine-Mod](valaine-integration.md) von *ValnarsZimmerKatze* & *SnowyDoe*
 - Einige neue Features von *Spatzenfärber*
   
 Möchte man dieses Menü verwenden, darf man zu Beginn nicht *“Ich spiele VD zum ersten Mal”* wählen. Ansonsten ist es auch bei einem NG+ Durchlauf verfügbar.
@@ -40,7 +45,9 @@ Die ursprüngliche Version wurde von *TrunX* entworfen & programmiert, und ist a
 
 ## Neue Features in der *CE*
 
-(TODO: info unvollständig & veraltet)
+TODO: Folgende Info ist unvollständig & veraltet (Stand Juni 2023)
+
+TODO: Weitere Änderungen sind noch nicht ausreichend dokumentiert und können dem GitHub-Profil des Projekts entnommen werden.
 
 - Es kann nun mit einer neuen Option zwischen Overworld Monster-Begegnungen, sowie zwischen den originalen Random Encounters gewählt werden.
    * Diese Option wirkt sich stark auf das Balancing aus. Daher werden standardmäßig passende Multiplikatoren für  erhaltene EXP gesetzt.

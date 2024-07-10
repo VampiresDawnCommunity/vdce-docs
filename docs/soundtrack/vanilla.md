@@ -53,8 +53,8 @@ Weitere Infos über den Soundtrack (auch nicht verwendete Tracks & Inhalte aus *
 |colspan=4|<span style="font-size: small">***** Als Bestandteil des (erweiterten) englischen RTPs von Don Miguel inkludiert.</span>
 |*Earth.mid* | **Ultima VIII: Pagan**<br /> Earth (Hall of the Mountain King) | Nenad Vugrinec | 1994 | Shannar (nach der Hinrichtung)
 |*ecco2_atlantis.mid* | **Ecco 2 : The Tides of Time**<br /> Inside Theme (Atlantis Ruins) | Gabor Foltan, Csaba Gigor, Laszlo Fazekas | 1994 | Asgars Wald<br/>Optionale Gebiete (Wald)
-|rowspan=2|*End.mid* ***** | **System Shock**<br /> Closing | Greg LoPiccolo | 1994 | Ende 3 (Gut - mit Alaine, nicht kanonische Variante)
-|colspan=4|<span style="font-size: small">***** *End.mid* ist eine scheinbar editierte MIDI-Datei, die lediglich die Drumbeats des Originals enthält. In der Demo 0.2 von Vampires Dawn ist noch die vollständige Version enthalten, weswegen dieser merkwürdige Track überhaupt erst dem Soundtrack von *System Shock* zugeordnet werden konnte.</span>
+|rowspan=2|*End.mid* | **System Shock**<br /> Closing | Greg LoPiccolo | 1994 | Ende 3 (Gut - mit Alaine, nicht kanonische Variante)
+|colspan=4|<span style="font-size: small">*End.mid* ist eine scheinbar editierte MIDI-Datei, die lediglich die Drumbeats des Originals enthält. In der Demo 0.2 von Vampires Dawn ist noch die vollständige Version enthalten, weswegen dieser merkwürdige Track überhaupt erst dem Soundtrack von *System Shock* zugeordnet werden konnte.</span>
 |*Endgame.mid* | **Ultima VII Part 2: Serpent Isle **<br /> Balance is Restored (Ending) | Marc Schaefgen & Nenad Vugrinec | 1993 | Feuergebirge
 |*Ending Theme.mid* | **Final Fantasy Tactics**<br /> Credits (Staff Credit) | Hitoshi Sakimoto | 1997 | Ende 3 (Gut mit Alaine)
 |*evilrhys.mid* | **Phantasy Star III**<br /> Abduction | Izuho Numata | 1990 | Abraxas Turm

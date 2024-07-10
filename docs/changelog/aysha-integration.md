@@ -3,9 +3,9 @@
 
 ## Allgemeine Infos
 
-Ursprünglich für ein Überstezungs-Update erstellt von *kj150*, welcher sich bereits zuvor für die englische Übersetzung von *Vampires Dawn* verantwortlich zeichnete.
+Ursprünglich für ein Übersetzungs-Update erstellt von *kj150*, welcher sich bereits zuvor für die englische Übersetzung von *Vampires Dawn* verantwortlich zeichnete.
 
-Für die [“Special Mega Aysha Everlasting Reign” Edition](../everlasting-reign) von *Yoraiko* ins Deutsche übersetzt.
+Für die [“Special Mega Aysha Everlasting Reign” Edition](everlasting-reign.md) von *Yoraiko* ins Deutsche übersetzt.
 
 Zwar wurde dieser Übersetzung, inkl. ihrer Änderungen, nie eine offizielle Versions-Nr. zugewiesen -da diese Inhalte aber mit dem zweiten **"Major Update"** der Übersetzung veröffentlicht wurden, werden sie als ***Version 3.0*** der Übersetzung dokumentiert.
 

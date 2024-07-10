@@ -3,7 +3,7 @@
 
 ## Allgemeine Infos
 
-Die *"Special Edition"* von *Vampires Dawn* wurde ursprünglich von *Plasquar* erstellt und war Teil der [“Special Mega Aysha Everlasting Reign” Edition](../everlasting-reign), auf welcher die *Community Edition* aufbaut.
+Die *"Special Edition"* von *Vampires Dawn* wurde ursprünglich von *Plasquar* erstellt und war Teil der [“Special Mega Aysha Everlasting Reign” Edition](everlasting-reign.md), auf welcher die *Community Edition* aufbaut.
 
 Auf dieser Seite werden einige Fixes & Anpassungen, welche die *SE* betreffen, näher erläutert. Diese sind allerdings obsolet, da die *SE*-Inhalte auf Anfrage von *Plasquar* wieder entfernt wurden.
 
@@ -11,15 +11,13 @@ Auf dieser Seite werden einige Fixes & Anpassungen, welche die *SE* betreffen, n
  
 ## Entfernung der SE-Inhalte
 
-Die zusätzlichen Inhalte der SE sind in diesem Release (obwohl es auf Version 1.1 der *“Special Mega Aysha Everlasting Reign” Edition* aufbaut) nicht mehr inkludiert. Ich (*Spatzenfärber*) hatte die Hoffnung, diese Inhalte unverfälscht und mit denselben technischen Verbesserungen und der erweiterten Customizability, sowie erstmals auch in englischer Übersetzung, inkludieren zu können. Einige aus späteren VD-Teilen bekannte Features wie **Random Loot**, **Overworld Enemy Encounters** und **Orts-Flaggen** auf der Weltkarte wurden aber in verbesserter Form neu implementiert. ([siehe Changelog](../#neue-features))
+Die zusätzlichen Inhalte der SE sind in diesem Release (obwohl es auf Version 1.1 der *“Special Mega Aysha Everlasting Reign” Edition* aufbaut) nicht mehr inkludiert. Ich (*Spatzenfärber*) hatte die Hoffnung, diese Inhalte unverfälscht und mit denselben technischen Verbesserungen und der erweiterten Customizability, sowie erstmals auch in englischer Übersetzung, inkludieren zu können. Einige aus späteren VD-Teilen bekannte Features wie **Random Loot**, **Overworld Enemy Encounters** und **Orts-Flaggen** auf der Weltkarte wurden aber in verbesserter Form neu implementiert. ([siehe Changelog](../index.md#neue-features))
 
 Da dieses Projekt ursprünglich als reines Bugfixing Release (Version 2.0) der *“Aysha Everlasting Reign” Edition* angedacht war und sich sonst eigentlich nur auf kleinere, neue *“Quality of Life”*-Features beschränkte, hielt ich es nicht für nötig, die ursprünglichen Entwickler außer **Yoraiko** selbst zu kontaktieren. Im Frühjahr 2023 wurde dann der geplante Umfang der Edition noch etwas erweitert, was nach einigen Chats im VD-Discord die Aufmerksamkeit von **Plasquar** auf sich zog. Ihn irritierte, dass seine *Special-Edition*-Inhalte in dieser Version enthalten waren und er bat mich, diese wieder zu entfernen, was ich unter dem Aspekt, dass diese neue Edition nun unter einem neuen Titel und mit neuen Features erscheinen würde, auch bereitwillig tat.
 
 Dass er aber ursprünglich **Yoraiko** die Erlaubnis gab, auf seiner SE-Version aufzusetzen, und diese später nach Release wieder entziehen wollte und ein Offline-Nehmen der *“Aysha-Everlasting-Reign”-Edition* forderte, finde ich nicht in Ordnung. Für mich persönlich als technisch versierten Entwickler, war es nicht viel Aufwand, die betroffenen Inhalte in meinem Code aufzuspüren und zu entfernen. (Ein Großteil davon ließ sich auch automatisiert unter Zuhilfenahme der liblcf-Tools des *EasyRPG-Teams* bewerkstelligen.)
 
 Für *Yoraiko*, der nicht aus der IT-Branche kommt, gleicht so eine Forderung aber einem Todesurteil für sein Projekt.
-
-TODO: auf alles etwas näher eingehen (Text aus altem Foren-Post übernommen)
 
 ***~ Spatzenfärber***
 

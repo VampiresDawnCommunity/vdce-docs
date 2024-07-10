@@ -1,6 +1,8 @@
 site_name: Vampires Dawn Community Edition
 repo_url: https://github.com/VampiresDawnCommunity/vdce-docs
 
+use_directory_urls: false
+
 nav:
   - Home: index.md
   - Changelog:
@@ -13,7 +15,19 @@ nav:
     - div. Mods: changelog/mods-other.md
   - Developer Info:
     - EasyRPG: dev-info/easyrpg.md
-  - Soundtrack: soundtrack.md
+    - Glossar: dev-info/glossary.md
+    - Timeline: dev-info/timeline.md
+  - Soundtrack: 
+    - Vanilla: soundtrack/vanilla.md
 
-extra_css:
-  - stylesheets/extra.css
+theme:
+  name: material
+ 
+#extra:
+#  alternate:
+#    - name: Deutsch
+#      link: /de/
+#      lang: de
+#    - name: English
+#      link: /en/
+#      lang: en
