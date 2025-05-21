@@ -13,12 +13,14 @@ nav:
     - Everlasting Reign: changelog/everlasting-reign.md
     - Valaine-Mod: changelog/valaine-integration.md
     - div. Mods: changelog/mods-other.md
+    - CE-Updates: changelog/changelog-ce.md
   - Developer Info:
     - EasyRPG: dev-info/easyrpg.md
     - Glossar: dev-info/glossary.md
     - Timeline: dev-info/timeline.md
   - Soundtrack: 
     - Vanilla: soundtrack/vanilla.md
+    - Mods: soundtrack/mods.md
 
 theme:
   name: material
