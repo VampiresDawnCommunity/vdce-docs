@@ -3,7 +3,7 @@
 
 ## Neu hinzugefügt
 
-TODO: auf neue Inhalte von Yoraiko eingehen
+*Von Yoraiko wurden exklusiv für die CE etliche neue Inhalte (in Form von neuen Orten, Dungeons, Charakteren, etc.) hinzugefügt, die nicht Teil der letzten Version 1.1 Everlasting Reign waren.*
 
 ## Allgemein Technisches, Items & Skills
 

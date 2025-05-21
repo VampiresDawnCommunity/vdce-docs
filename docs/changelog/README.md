@@ -45,9 +45,9 @@ Die ursprüngliche Version wurde von *TrunX* entworfen & programmiert, und ist a
 
 ## Neue Features in der *CE*
 
-TODO: Folgende Info ist unvollständig & veraltet (Stand Juni 2023)
+Folgende Info ist unvollständig & veraltet (Stand Juni 2023)
 
-TODO: Weitere Änderungen sind noch nicht ausreichend dokumentiert und können dem GitHub-Profil des Projekts entnommen werden.
+Weitere Änderungen sind noch nicht ausreichend dokumentiert und können dem GitHub-Profil des Projekts entnommen werden.
 
 - Es kann nun mit einer neuen Option zwischen Overworld Monster-Begegnungen, sowie zwischen den originalen Random Encounters gewählt werden.
    * Diese Option wirkt sich stark auf das Balancing aus. Daher werden standardmäßig passende Multiplikatoren für  erhaltene EXP gesetzt.
